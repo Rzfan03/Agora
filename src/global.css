@@ -2,4 +2,5 @@
 
 *{
     outline: none;
+    scroll-behavior: smooth;
 }

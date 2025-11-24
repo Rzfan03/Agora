@@ -11,8 +11,12 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
     "astro": "^5.16.0",
+    "astro-carousel": "^3.0.3",
     "axios": "^1.13.2",
     "remixicon": "^4.7.0",
     "tailwindcss": "^4.1.17"
+  },
+  "devDependencies": {
+    "sass": "^1.94.2"
   }
 }
